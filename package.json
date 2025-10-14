@@ -22,9 +22,5 @@
     "typescript": "~5.9.3",
     "vite": "^7.1.7",
     "vue-tsc": "^3.1.0"
-  },
-  "extends": [
-    "plugin:vue/essential",
-    "plugin:prettier/recommended"
-  ]
+  }
 }
